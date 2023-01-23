@@ -47,9 +47,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/hummingbird-joystick
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/hummingbird-joystick/v0.0.2.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/hummingbird-joystick/v0.0.4.svg
     :alt: Commits since latest release
-    :target: https://github.com/fmorton/hummingbird-joystick/compare/v0.0.2...main
+    :target: https://github.com/fmorton/hummingbird-joystick/compare/v0.0.4...main
 
 
 

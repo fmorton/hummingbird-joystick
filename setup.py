@@ -20,7 +20,7 @@ def read(*names, **kwargs):
 
 setup(
     name='hummingbird-joystick',
-    version='0.0.2',
+    version='0.0.4',
     license='MIT',
     description='Support for Birdbrain Technolgies Hummingbird joystick',
     long_description='{}\n{}'.format(

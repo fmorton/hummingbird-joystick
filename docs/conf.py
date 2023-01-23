@@ -20,7 +20,7 @@ project = 'Hummingbird Joystick'
 year = '2022'
 author = 'Frank Morton'
 copyright = '{0}, {1}'.format(year, author)
-version = release = '0.0.2'
+version = release = '0.0.4'
 
 pygments_style = 'trac'
 templates_path = ['.']
